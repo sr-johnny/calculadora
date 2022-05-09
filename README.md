@@ -3,7 +3,7 @@
 Aprendizado do curso mobile da **Udemy** utilizando React Native.
 
 - [x] - Inicialização do Projeto
-- [ ] - Configuração das Dependências 
+- [x] - Configuração das Dependências 
 - [ ] - Componentes
 - [ ] - Style
 - [ ] - Funções Básicas
